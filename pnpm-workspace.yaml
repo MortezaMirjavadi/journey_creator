@@ -1,0 +1,6 @@
+minimumReleaseAgeExclude:
+  - '@vitejs/plugin-react@6.2.1'
+  - '@xyflow/react@12.12.1'
+  - '@xyflow/system@0.0.84'
+  - i18next@26.7.1
+  - react-i18next@17.1.11
